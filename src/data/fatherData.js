@@ -35,7 +35,7 @@ const galleryPhotos = sortedGalleryEntries.map(([filePath, src], index) => {
 // Arquivo central de personalização.
 // Edite os textos, nomes, eventos e imagens aqui para adaptar a homenagem.
 export const fatherData = {
-  fatherName: 'Meu Pai',
+  fatherName: 'Cláudio',
 
   loading: {
     title: 'Preparando uma homenagem especial...',
