@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101C2A"/>
+      <stop offset="1" stop-color="#6a567f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="36" fill="url(#bg)"/>
+  <circle cx="220" cy="200" r="120" fill="#D6B36A" fill-opacity="0.24"/>
+  <circle cx="980" cy="720" r="170" fill="#F7E9C6" fill-opacity="0.14"/>
+  <rect x="190" y="220" width="820" height="460" rx="26" stroke="#F2D9A8" stroke-opacity="0.54" stroke-width="2"/>
+  <text x="600" y="430" text-anchor="middle" fill="#F8F6F1" font-size="74" font-family="'Segoe UI', sans-serif" font-weight="700">Memoria 04</text>
+  <text x="600" y="500" text-anchor="middle" fill="#CFD6DE" font-size="34" font-family="'Segoe UI', sans-serif">Troque este arquivo por uma foto real</text>
+</svg>

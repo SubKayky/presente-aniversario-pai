@@ -1,0 +1,26 @@
+{
+  "name": "presente-aniversario-pai",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "predev": "npm run optimize:gallery",
+    "dev": "vite",
+    "optimize:gallery": "node scripts/optimize-gallery.mjs",
+    "prebuild": "npm run optimize:gallery",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.542.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.0",
+    "sharp": "^0.34.5",
+    "vite": "^7.3.1"
+  }
+}
