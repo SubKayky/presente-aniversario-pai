@@ -231,7 +231,7 @@ export const fatherData = {
     enabled: true,
     buttonLabel: 'Trilha sonora',
     helperText: 'Toque para reproduzir a trilha da homenagem.',
-    src: '/audio/trilha.mp3',
+    src: `${import.meta.env.BASE_URL}audio/trilha.mp3`,
   },
 
   footer: {
