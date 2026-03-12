@@ -218,7 +218,7 @@ export const fatherData = {
     certificateTitle: 'Certificado Oficial',
     certificateSubtitle: 'Melhor Pai do Mundo',
     recipientLabel: 'Concedido a',
-    recipient: 'Meu Pai',
+    recipient: 'Cláudio Silva',
     reason:
       'Por amor incondicional, dedicação constante, paciência admirável e por transformar cada dia comum em uma lembrança especial.',
     finalMessage:
